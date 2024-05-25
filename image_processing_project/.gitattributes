@@ -1,0 +1,2 @@
+# Ensure text files have LF line endings in the repository but CRLF in the working directory on Windows
+* text=auto
