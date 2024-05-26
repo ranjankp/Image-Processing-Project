@@ -99,6 +99,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 OUTPUT
 
 ![image](https://github.com/ranjankp/Image-Processing-Project/assets/59530810/7f34ce71-a9ba-4eaa-8b1b-74b0008be33d)
-![image](https://github.com/ranjankp/Image-Processing-Project/assets/59530810/f58c6a32-e5b1-4328-8502-ee0b939f32ce)
+
 
 
